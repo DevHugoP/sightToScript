@@ -2,6 +2,9 @@
 
 ## Présentation
 
+![Capture d’écran 2025-04-12 à 10 54 42](https://github.com/user-attachments/assets/dcbe68ab-0817-4554-8d15-b14d6dc9efaa)
+
+
 Sight to Script est une application web innovante qui transforme les images de structures de dossiers en scripts exécutables. Imaginez que vous voyez une structure de répertoires dans un tutoriel, une documentation ou une présentation : il vous suffit de prendre une capture d'écran, de la télécharger dans notre application, et vous obtenez instantanément les commandes nécessaires pour recréer cette structure sur votre système.
 
 L'application utilise l'IA Claude d'Anthropic pour analyser les images et extraire la hiérarchie des dossiers et fichiers. Elle permet ensuite de générer des scripts dans différents formats pour s'adapter à n'importe quel système d'exploitation.
